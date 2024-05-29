@@ -39,11 +39,11 @@ I'm a passionate mechanical engineer with a keen interest in interdisciplinary p
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Geetika149&theme=synthwave)
 
 <div style="display: flex; justify-content: space-between;">
-    <div>
+    <div style="width: 48%;">
         <h2>GitHub Stats</h2>
         <img src="https://github-readme-stats.vercel.app/api?username=Geetika149&show_icons=true&theme=synthwave" alt="Geetika's GitHub stats" />
     </div>
-    <div>
+    <div style="width: 48%;">
         <h2>Top Languages</h2>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geetika149&layout=compact&theme=synthwave" alt="Top Langs" />
     </div>
