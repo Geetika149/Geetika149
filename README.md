@@ -8,11 +8,9 @@
 - ⚡ Fun fact: I love exploring the intersection of engineering and technology
 
 ## Skills
-- **Languages:** Python &#xf3e2;, C &#xf1c9;
-- **Frameworks/Libraries:** matplotlib &#xf200;
-- **Tools:** VSCode &#xf3ed;, MATLAB &#xf11b;
-- ## Skills
-- **Languages:** <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/brands/python.svg" width="16" height="16" /> Python
+- **Languages:** ![Python](url_to_python_icon) Python, ![C](url_to_c_icon) C
+- **Frameworks/Libraries:** ![Matplotlib](url_to_matplotlib_icon) matplotlib
+- **Tools:** ![VSCode](url_to_vscode_icon) VSCode, ![MATLAB](url_to_matlab_icon) MATLAB
 
 ## Projects
 Here are a few projects I've worked on:
