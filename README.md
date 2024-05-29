@@ -8,9 +8,19 @@
 - ⚡ Fun fact: I love exploring the intersection of engineering and technology
 
 ## Skills
-- **Languages:** ![Python](url_to_python_icon) Python, ![C](url_to_c_icon) C
-- **Frameworks/Libraries:** ![Matplotlib](url_to_matplotlib_icon) matplotlib
-- **Tools:** ![VSCode](url_to_vscode_icon) VSCode, ![MATLAB](url_to_matlab_icon) MATLAB
+## Skills
+- **Languages:**
+-  ![Python](https://github.com/Geetika149/Geetika149/blob/main/icons/python-127-svgrepo-com.png)
+-   ![C](https://github.com/Geetika149/Geetika149/blob/main/icons/101-1010012_c-programming-icon-c-programming-language-logo.png) 
+- **Frameworks/Libraries:**
+- ![Matplotlib](https://github.com/Geetika149/Geetika149/blob/main/icons/matplotlib.png)
+- **Tools:**
+- ![VSCode](url_to_vscode_png)
+- ![MATLAB](https://github.com/Geetika149/Geetika149/blob/main/icons/Matlab_Logo.png)
+- ![Fusion 360](https://github.com/Geetika149/Geetika149/blob/main/icons/519-5198181_eclipse-software-free-download-fusion.png)
+-  ![ANSYS](https://github.com/Geetika149/Geetika149/blob/main/icons/ANSS-afc9cd74.png)
+-  ![PyANSYS](https://github.com/Geetika149/Geetika149/blob/main/icons/pyansys-logo-black-cropped.png) 
+
 
 ## Projects
 Here are a few projects I've worked on:
