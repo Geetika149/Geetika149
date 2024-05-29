@@ -8,9 +8,9 @@
 - ⚡ Fun fact: I love exploring the intersection of engineering and technology
 
 ## Skills
-- **Languages:** <i class="fab fa-python"></i> Python, <i class="fab fa-cuttlefish"></i> C
-- **Frameworks/Libraries:** <i class="fab fa-matplotlib"></i> matplotlib
-- **Tools:** <i class="fab fa-vscode"></i> VSCode, <i class="fas fa-microscope"></i> PyANSYS, MATLAB, ANSYS, Fusion 360
+- **Languages:** Python &#xf3e2;, C &#xf1c9;
+- **Frameworks/Libraries:** matplotlib &#xf200;
+- **Tools:** VSCode &#xf3ed;, MATLAB &#xf11b;
 
 ## Projects
 Here are a few projects I've worked on:
