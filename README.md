@@ -11,6 +11,8 @@
 - **Languages:** Python &#xf3e2;, C &#xf1c9;
 - **Frameworks/Libraries:** matplotlib &#xf200;
 - **Tools:** VSCode &#xf3ed;, MATLAB &#xf11b;
+- ## Skills
+- **Languages:** <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/brands/python.svg" width="16" height="16" /> Python
 
 ## Projects
 Here are a few projects I've worked on:
