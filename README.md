@@ -7,10 +7,15 @@
 - 📫 How to reach me: geetikadavala@gmail.com
 - ⚡ Fun fact: I love exploring the intersection of engineering and technology
 
-## Skills
-- **Languages:** <img src="https://github.com/Geetika149/Geetika149/blob/main/icons/python-127-svgrepo-com.png" width="20" height="20" /> Python, <img src="https://github.com/Geetika149/Geetika149/blob/main/icons/101-1010012_c-programming-icon-c-programming-language-logo.png" width="20" height="20" /> C
-- **Frameworks/Libraries:** <img src="https://github.com/Geetika149/Geetika149/blob/main/icons/matplotlib.png" width="20" height="20" /> matplotlib
-- **Tools:** <img src="https://github.com/Geetika149/Geetika149/blob/main/icons/matlab_Logo.png" width="20" height="20" /> MATLAB, <img src="https://github.com/Geetika149/Geetika149/blob/main/icons/519-5198181_eclipse-software-free-download-fusion.png" width="20" height="20" /> Fusion 360, <img src="https://github.com/Geetika149/Geetika149/blob/main/icons/ANSS-afc9cd74.png" width="20" height="20" /> ANSYS, <img src="https://github.com/Geetika149/Geetika149/blob/main/icons/pyansys-logo-black-cropped.png" width="20" height="20" /> PyANSYS
+## Languages
+<img src="https://github.com/Geetika149/Geetika149/blob/main/icons/python-logo-png-open-2000.png" width="20" height="20" /> <img src="https://github.com/Geetika149/Geetika149/blob/main/icons/101-1010012_c-programming-icon-c-programming-language-logo.png" width="20" height="20" />
+
+## Frameworks/Libraries
+<img src="https://github.com/Geetika149/Geetika149/blob/main/icons/matplotlib.png" width="20" height="20" />
+
+## Tools
+<img src="https://github.com/Geetika149/Geetika149/blob/main/icons/matlab_Logo.png" width="20" height="20" /> <img src="https://github.com/Geetika149/Geetika149/blob/main/icons/519-5198181_eclipse-software-free-download-fusion.png" width="20" height="20" /> <img src="https://github.com/Geetika149/Geetika149/blob/main/icons/ANSS-afc9cd74.png" width="20" height="20" /> <img src="https://github.com/Geetika149/Geetika149/blob/main/icons/pyansys-logo-black-cropped.png" width="25" height="20" />
+
 
 ## Projects
 Here are a few projects I've worked on:
