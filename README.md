@@ -14,7 +14,8 @@
 <img src="https://github.com/Geetika149/Geetika149/blob/main/icons/matplotlib.png" width="30" height="30" />
 
 ## Tools
-<img src="https://github.com/Geetika149/Geetika149/blob/main/icons/matlab_Logo.png" width="30" height="30" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/Geetika149/Geetika149/blob/main/icons/519-5198181_eclipse-software-free-download-fusion.png" width="30" height="30" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/Geetika149/Geetika149/blob/main/icons/ANSS-afc9cd74.png" width="30" height="30" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/Geetika149/Geetika149/blob/main/icons/pyansys-logo-black-cropped.png" width="35" height="30" />
+<img src="https://github.com/Geetika149/Geetika149/blob/main/icons/matlab1.png" width="30" height="30" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/Geetika149/Geetika149/blob/main/icons/519-5198181_eclipse-software-free-download-fusion.png" width="30" height="30" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/Geetika149/Geetika149/blob/main/icons/ANSS-afc9cd74.png" width="30" height="30" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/Geetika149/Geetika149/blob/main/icons/pyansys-logo-black-cropped.png" width="35" height="30" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/Geetika149/Geetika149/blob/main/icons/Docker-Symbol.png" width="30" height="30" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/Geetika149/Geetika149/blob/main/icons/qemu-icon-2048x2048-53y31jbv.png" width="30" height="30" />
+
 
 
 ## Projects
