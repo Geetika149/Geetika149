@@ -8,14 +8,13 @@
 - ⚡ Fun fact: I love exploring the intersection of engineering and technology
 
 ## Languages
-<img src="https://github.com/Geetika149/Geetika149/blob/main/icons/python-logo-png-open-2000.png" width="20" height="20" /> <img src="https://github.com/Geetika149/Geetika149/blob/main/icons/101-1010012_c-programming-icon-c-programming-language-logo.png" width="20" height="20" />
+<img src="https://github.com/Geetika149/Geetika149/blob/main/icons/python-logo-png-open-2000.png" width="25" height="25" /> <img src="https://github.com/Geetika149/Geetika149/blob/main/icons/101-1010012_c-programming-icon-c-programming-language-logo.png" width="25" height="25" />
 
 ## Frameworks/Libraries
-<img src="https://github.com/Geetika149/Geetika149/blob/main/icons/matplotlib.png" width="20" height="20" />
+<img src="https://github.com/Geetika149/Geetika149/blob/main/icons/matplotlib.png" width="25" height="25" />
 
 ## Tools
-<img src="https://github.com/Geetika149/Geetika149/blob/main/icons/matlab_Logo.png" width="20" height="20" /> <img src="https://github.com/Geetika149/Geetika149/blob/main/icons/519-5198181_eclipse-software-free-download-fusion.png" width="20" height="20" /> <img src="https://github.com/Geetika149/Geetika149/blob/main/icons/ANSS-afc9cd74.png" width="20" height="20" /> <img src="https://github.com/Geetika149/Geetika149/blob/main/icons/pyansys-logo-black-cropped.png" width="25" height="20" />
-
+<img src="https://github.com/Geetika149/Geetika149/blob/main/icons/matlab_Logo.png" width="25" height="25" /> <img src="https://github.com/Geetika149/Geetika149/blob/main/icons/519-5198181_eclipse-software-free-download-fusion.png" width="25" height="25" /> <img src="https://github.com/Geetika149/Geetika149/blob/main/icons/ANSS-afc9cd74.png" width="25" height="25" /> <img src="https://github.com/Geetika149/Geetika149/blob/main/icons/pyansys-logo-black-cropped.png" width="30" height="25" />
 
 ## Projects
 Here are a few projects I've worked on:
