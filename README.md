@@ -1,7 +1,5 @@
 # Hello, I'm Geetika Gladys 👋
 
-![Profile views](https://gpvc.arturio.dev/Geetika149)
-
 ## About Me
 - 🔧 I’m a Mechanical Engineer
 - 🌱 I’m currently learning and working on interdisciplinary projects
@@ -10,9 +8,9 @@
 - ⚡ Fun fact: I love exploring the intersection of engineering and technology
 
 ## Skills
-- **Languages:** Python, C
-- **Frameworks/Libraries:** matplotlib
-- **Tools:** VSCode, PyANSYS, MATLAB, ANSYS, Fusion 360
+- **Languages:** <i class="fab fa-python"></i> Python, <i class="fab fa-cuttlefish"></i> C
+- **Frameworks/Libraries:** <i class="fab fa-matplotlib"></i> matplotlib
+- **Tools:** <i class="fab fa-vscode"></i> VSCode, <i class="fas fa-microscope"></i> PyANSYS, MATLAB, ANSYS, Fusion 360
 
 ## Projects
 Here are a few projects I've worked on:
