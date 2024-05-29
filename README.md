@@ -29,17 +29,22 @@ I'm a passionate mechanical engineer with a keen interest in interdisciplinary p
 - [Analysis of Melting & Solidification of Phase Change Material]
 
 ## Areas of Interest
-- Structural Analysis
-- Heat Transfer
-- Computational Fluid Dynamics (CFD)
-- Additive Manufacturing
-- Robotics and Automation
+🔥 **CFD & Thermal Analysis**
+   - Exploring fluid dynamics and heat transfer phenomena for various engineering applications.
+
+🌐 **IoT**
+   - Delving into the world of Internet of Things to create smart and connected systems.
 
 ## GitHub Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Geetika149&theme=synthwave)
 
-## GitHub Stats
-![Geetika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Geetika149&show_icons=true&theme=synthwave)
-
-## Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Geetika149&layout=compact&theme=synthwave)
+<div style="display: flex; justify-content: space-between;">
+    <div>
+        <h2>GitHub Stats</h2>
+        <img src="https://github-readme-stats.vercel.app/api?username=Geetika149&show_icons=true&theme=synthwave" alt="Geetika's GitHub stats" />
+    </div>
+    <div>
+        <h2>Top Languages</h2>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geetika149&layout=compact&theme=synthwave" alt="Top Langs" />
+    </div>
+</div>
