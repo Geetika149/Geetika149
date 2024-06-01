@@ -11,6 +11,9 @@ I'm a passionate mechanical engineer with a keen interest in interdisciplinary p
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/geetika-gladys-60b33825b)
 - 😄 Pronouns: She/Her
 
+###Platforms
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
 ### Programming Languages
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -23,7 +26,6 @@ I'm a passionate mechanical engineer with a keen interest in interdisciplinary p
 ![WebSocket](https://img.shields.io/badge/WebSocket-%2300CC00.svg?style=for-the-badge&logo=websocket&logoColor=white)
 
 ### Tools
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![QEMU](https://img.shields.io/badge/QEMU-%23FF6600.svg?style=for-the-badge&logo=qemu&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-%2307408C.svg?style=for-the-badge&logo=sqlite&logoColor=white)
