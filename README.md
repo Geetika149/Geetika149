@@ -11,19 +11,24 @@ I'm a passionate mechanical engineer with a keen interest in interdisciplinary p
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/geetika-gladys-60b33825b)
 - 😄 Pronouns: She/Her
 
-### Programming Languages and Tools
-
+### Programming Languages
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+### Frameworks and Libraries
+![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%230076A8.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![PyAnsys](https://img.shields.io/badge/PyAnsys-%2300599C.svg?style=for-the-badge&logo=ansys&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-%2300CC00.svg?style=for-the-badge&logo=websocket&logoColor=white)
+
+### Tools
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![QEMU](https://img.shields.io/badge/QEMU-%23FF6600.svg?style=for-the-badge&logo=qemu&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-%2307408C.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-%2300CC00.svg?style=for-the-badge&logo=websocket&logoColor=white)
+![PyAnsys](https://img.shields.io/badge/PyAnsys-%2300599C.svg?style=for-the-badge&logo=ansys&logoColor=white)
+![ANSYS](https://img.shields.io/badge/ANSYS-%2300599C.svg?style=for-the-badge&logo=ansys&logoColor=white)
+![Fusion 360](https://img.shields.io/badge/Fusion%20360-%23FF6600.svg?style=for-the-badge&logo=autodesk&logoColor=white)
 
 ## Areas of Interest
 🔥 **CFD & Thermal Analysis**
