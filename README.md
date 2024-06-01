@@ -3,8 +3,6 @@
 I'm a passionate mechanical engineer with a keen interest in interdisciplinary projects and cutting-edge technologies. Currently, I'm exploring the realms of thermal engineering, electronics, and deep tech.
 
 ## About Me
-
-# About Me
 🔧 **Tinkerer Extraordinaire**: Currently leveling up my skills in Python, C, and ANSYS - because why not conquer all three?
 
 🐳 **Docker Diver**: On a deep dive into the world of Docker and QEMU. Scuba gear not included.
