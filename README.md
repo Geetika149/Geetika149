@@ -14,6 +14,7 @@ I'm a passionate mechanical engineer with a keen interest in interdisciplinary p
 ### Programming Languages
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![MATLAB](https://img.shields.io/badge/MATLAB-%230076A8.svg?style=for-the-badge&logo=mathworks&logoColor=white)
 
 ### Frameworks and Libraries
 ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
