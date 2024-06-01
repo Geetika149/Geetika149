@@ -4,14 +4,14 @@ I'm a passionate mechanical engineer with a keen interest in interdisciplinary p
 
 ## About Me
 
-- 🔭 I’m currently working on enhancing my skills in Python, C, and ANSYS.
-- 🌱 I’m currently learning Docker and QEMU.
-- 👯 I’m looking to collaborate on projects related to thermal engineering, electronics, and interdisciplinary research.
-- 💬 Ask me about mechanical engineering, Python, ANSYS, and Fusion 360.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/geetika-gladys-60b33825b)
-- 😄 Pronouns: She/Her
+# About Me
+🔧 **Tinkerer Extraordinaire**: Currently leveling up my skills in Python, C, and ANSYS - because why not conquer all three?
+🐳 **Docker Diver**: On a deep dive into the world of Docker and QEMU. Scuba gear not included.
+🤝 **Collab Enthusiast**: Looking to team up on epic projects in thermal engineering, electronics, and some cool interdisciplinary mashups. Got an idea? Let's make it happen!
+💬 **Ask Me Anything**: Whether it's about mechanical engineering, Python sorcery, ANSYS wizardry, or crafting with Fusion 360, I’ve got you covered!
+📫 **Reach Out**: Find me on LinkedIn. Let's connect and make some magic!
 
-###Platforms
+### Platforms
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ### Programming Languages
