@@ -5,8 +5,6 @@ I'm a passionate mechanical engineer with a keen interest in interdisciplinary p
 ## About Me
 🔧 **Tinkerer Extraordinaire**: Currently leveling up my skills in Python, C, and ANSYS - because why not conquer all three?
 
-🐳 **Docker Diver**: On a deep dive into the world of Docker and QEMU. Scuba gear not included.
-
 🤝 **Collab Enthusiast**: Looking to team up on epic projects in thermal engineering, electronics, and some cool interdisciplinary mashups. Got an idea? Let's make it happen!
 
 💬 **Ask Me Anything**: Whether it's about mechanical engineering, Python sorcery, ANSYS wizardry, or crafting with Fusion 360, I’ve got you covered!
